@@ -5,6 +5,7 @@
 
 
 Freddy Alejandro Cuellar / facuellarg@unal.edu.co
+
 Sergio Alejandro Vargas / savargasqu@unal.edu.co
 
 ## Dependencias (instalación con `conda` o `PIP`)
