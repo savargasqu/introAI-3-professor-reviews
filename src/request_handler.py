@@ -15,7 +15,8 @@ def req_get(url):
     try:
         with closing(get(url, stream=True)) as resp:
             if is_good_response(resp):
-                return resp.content
+                #return resp.content
+                return resp.text
             else:
                 return None
 
