@@ -1,7 +1,7 @@
 
 # Predicción de puntuaciones de profesores a partir de opiniones
 
-**Proyecto #3 de Introducción a la Inteligencia Artificial**
+**Proyecto #3 de Introducción a la Inteligencia Artificial (2019 - II)**
 
 
 Freddy Alejandro Cuellar / facuellarg@unal.edu.co
